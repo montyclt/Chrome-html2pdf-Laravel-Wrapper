@@ -1,0 +1,8 @@
+{
+    "name": "montyclt/laravel-chrome-html2pdf",
+    "description": "Laravel Wrapper of spiritix/php-chrome-html2pdf",
+    "require": {
+        "php": "^7.0",
+        "spiritix/php-chrome-html2pdf": "^0.1.0"
+    }
+}
